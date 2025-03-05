@@ -22,7 +22,7 @@
     border: 1px solid;
     border-radius: 2px;
     margin: 5px;
-    background-color: rgb(121, 140, 236);
+    background-color: rgb(139, 156, 241);
     align-content: center;
     box-shadow: 0px 0px 6px  rgb(25, 184, 46)
 
@@ -69,17 +69,14 @@
     grid-row-end: 7;
     grid-column-start: 6;
     grid-column-end: 9;
-    
-
 }
 #game{
     grid-row-start: 8;
     grid-row-end: 8;
     grid-column-start: 6;
     grid-column-end: 9;
-    text-decoration: none;
     
 }
-a{
-    text-decoration: none
-}
+
+
+
